@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi 👋, I'm Chiamaka Miriam.</h1>
 
-<h3 align="center"><b> I'm a reseacher || Architechural engineer
+<h3 align="center"><b> I'm a Reseacher || Architechural engineer
  || Project Manager|| Business Analyst 
   || Aspiring Front-end Developer.</b></h3>
 
@@ -48,6 +48,4 @@ and creating a design that's user friendly to end
 
 
 <!---
-Miriamchy/Miriamchy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Miriamchy/Miriamchy is a ✨ special ✨ repository because its `R
