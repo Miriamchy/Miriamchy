@@ -11,7 +11,7 @@ and creating a design that's user friendly to end
           users.</p></div>
 
 <div>
-<p align="left">  <img src="https://i.postimg.cc/zXHxnNH7/mimi-image.jpg" alt="" /></p>
+<p align="center">  <img src="https://i.postimg.cc/zXHxnNH7/mimi-image.jpg" alt="" /></p>
 </div>
 
 
