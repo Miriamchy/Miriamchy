@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi 👋, I'm Chiamaka Miriam.</h1>
 
-<h3 align="center"><b> I'm a Reseacher || Architechural engineer
+<h3 align="center"><b> I'm a Reseacher || Architectural engineer
  || Project Manager|| Business Analyst 
   || Aspiring Front-end Developer.</b></h3>
 
