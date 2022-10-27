@@ -24,17 +24,22 @@ and creating a design that's user friendly to end
         <li> Microsoft office</li>
         <li> Viscode/codepen</li>
         <li> Html and css<li>
-  
-## 🔗 Links
+ 
+ 
+ 
+## Other Common Github Profile Sections
+
+👯‍♀️ I'm looking to collaborate on any interesting project
+
+
+📫You can reach me:
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://my-portfolio.chiamakamiriam.repl.co/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]("http://www.linkedin.com/in/chiamaka-miriam-79a98b173")
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/chiamaka-miriam-79a98b173)
 [![email](https://img.shields.io/badge/email-1DA1F2?style=for-the-badge&logo=email&logoColor=white)](mailto:chiamaka.miriam2022@gmail.com")
 
 
-
-
-
-
+⚡️ Fun fact: I like interesting people.
 
 
 
