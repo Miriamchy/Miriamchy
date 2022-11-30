@@ -10,7 +10,7 @@ and creating a design that's user friendly to end
           users.</p></div>
 
 <div>
-<p align="center">  <img src="https://i.postimg.cc/zXHxnNH7/mimi-image.jpg" alt="" /></p>
+<p align="center">  <img src="https://i.postimg.cc/zfZh9Y6W/Whats-App-Image-2022-11-30-at-10-16-50-AM.jpg" alt="" /></p>
 </div>
 
 
