@@ -1,9 +1,8 @@
 
 <h1 align="center"> Hi 👋, I'm Chiamaka Miriam.</h1>
 
-<h3 align="center"><b> I'm a Reseacher || Architectural Engineer
- || Project Manager|| Business Analyst 
-  || Aspiring Front-end Developer.</b></h3>
+<h3 align="center"><b> I'm a Frontend Developer|| UX Designer || 
+Business Analyst || </b></h3>
 
 <div>
 <p align="center">  I'm passionate about bringing solutions to business problems
@@ -15,17 +14,17 @@ and creating a design that's user friendly to end
 </div>
 
 
-
+<div>
 ## 🛠 Skills
 
 <li>Autocad/Archcad/Autodesk Revit </li>
-        <li>Smartpls/SPSS</li>
-        <li>Asana/trello/Monday.com</li>
+        <li> Smartpls/SPSS</li>
+        <li> Asana/trello/Monday.com</li>
         <li> Microsoft office</li>
-        <li> Viscode/codepen</li>
-        <li> Html and css<li>
- 
- 
+        <li> Viscode/Git</li>
+        <li> Html/Css/ JavaScript</li>
+        <li> Figma and Adobe Xd</li>
+  </div>
  
 ## Other Common Github Profile Sections
 
